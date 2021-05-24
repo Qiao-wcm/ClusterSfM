@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data6/wcm/code/cut/color/cameraCluster/1.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+vector
+-
+

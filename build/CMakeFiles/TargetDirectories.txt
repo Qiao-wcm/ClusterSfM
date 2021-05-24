@@ -1,0 +1,3 @@
+/data6/wcm/code/cut/color/cameraCluster/build/CMakeFiles/rebuild_cache.dir
+/data6/wcm/code/cut/color/cameraCluster/build/CMakeFiles/edit_cache.dir
+/data6/wcm/code/cut/color/cameraCluster/build/CMakeFiles/sfmtxt.dir

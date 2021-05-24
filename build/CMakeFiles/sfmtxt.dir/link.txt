@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sfmtxt.dir/1.cpp.o  -o sfmtxt 
